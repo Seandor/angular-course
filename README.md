@@ -1,6 +1,6 @@
 # AngularCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+Learning Angular. What else could I do. This repository will contain all the code examples from Angular 6 - The Complete Guide.
 
 ## Development server
 
